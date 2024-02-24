@@ -1,5 +1,5 @@
 {
-  "name": "next-kube-example",
+  "name": "next-fargate-example",
   "version": "0.1.0",
   "private": true,
   "scripts": {
